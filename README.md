@@ -17,3 +17,7 @@ The assignment, if you choose to accept it, is to assure the quality of the `awe
 The code has never seen a line of tests since it was created. It was good for the 1st launch, but not anymore.
 
 You may choose any framework you want, but for CI/CD the company has decided to use `GitHub Actions`.
+
+## How to reply
+
+`Fork` the repo `https://github.com/awesome-llc/awesome-calculator` and use it to deliver your response.
