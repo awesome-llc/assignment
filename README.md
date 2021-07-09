@@ -20,4 +20,4 @@ You may choose any framework you want, but for CI/CD the company has decided to 
 
 ## How to reply
 
-`Fork` the repo `https://github.com/awesome-llc/awesome-calculator` and use it to deliver your response.
+`Clone` the repo `https://github.com/awesome-llc/awesome-calculator` and use it to deliver your response. 
